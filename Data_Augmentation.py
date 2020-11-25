@@ -35,12 +35,8 @@ start = time.time()
 cv2.setUseOptimized(True)
 
 input_dir = r'C:\Users\lbelliappa\Downloads\Logo detection\Wells_Fargo\Wells_Fargo_Processed'
-#r'C:\Users\pnagare\Documents\AIF\Python Scripts\Scripts\AmeriHomeModelV2\LE All Pages\EXTRACTION_DATA\Pramod\CD_Segmented\Dataset_Resized'
-#r'C:\Users\pnagare\Documents\AIF\Python Scripts\Scripts\AmeriHomeModelV2\LE All Pages\Data Classified Resized'
-
 data_dir = r'C:\Users\lbelliappa\Downloads\Logo detection\Wells_Fargo\Wells_Fargo_Processed\TestNoise'
-#r'C:\Users\pnagare\Documents\AIF\Python Scripts\Scripts\AmeriHomeModelV2\LE All Pages\EXTRACTION_DATA\Pramod\CD_Segmented\Dataset_Augmentation'
-#r'C:\Users\pnagare\Documents\AIF\Python Scripts\Scripts\AmeriHomeModelV2\LE All Pages\Data Augmentation'
+
 
 #if not os.path.exists(data_dir):
 #    os.makedirs(data_dir)
